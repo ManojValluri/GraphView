@@ -351,8 +351,8 @@ public class GridLabelRenderer {
         setLabelFormatter(new DefaultLabelFormatter());
         mStyles = new Styles();
         resetStyles();
-        mNumVerticalLabels = 5;
-        mNumHorizontalLabels = 5;
+        mNumVerticalLabels = 10;
+        mNumHorizontalLabels = 10;
         mHumanRoundingX = true;
         mHumanRoundingY = true;
     }
